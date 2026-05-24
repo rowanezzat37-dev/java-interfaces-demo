@@ -24,5 +24,5 @@ A Java-based system that models various smart home devices, demonstrating core c
 
 ## 👤 Author
 
-**Rowan Ezzat Mohamed**
+**Rowan Ezzat** Software Engineer & Data Science Student  
 - GitHub: [@rowanezzat37-dev](https://github.com/rowanezzat37-dev)
